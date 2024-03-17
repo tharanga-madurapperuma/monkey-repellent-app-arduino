@@ -15,7 +15,7 @@
 AccelStepper stepper1(HALFSTEP, mtrPin1, mtrPin3, mtrPin2, mtrPin4);
 
 
-#define API_KEY "AIzaSyCYVMjgAB8sqfM_dlAWVjXL9UAlpDsymQA"
+#define API_KEY "<YOUR API KEY>"
 #define FIREBASE_PROJECT_ID "monkey-repellent-device"
 #define USER_EMAIL "user@gmail.com"
 #define USER_PASSWORD "123456"
